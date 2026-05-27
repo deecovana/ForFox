@@ -2,6 +2,7 @@
 
 ## Addeed mods:
 
+	DeeMan-PakList.txt
 	War-WindowsNoEditor_22.pak
 	War-WindowsNoEditor_CollieRed.pak
 	War-WindowsNoEditor_ColoredAMats.pak
@@ -14,6 +15,7 @@
 	War-WindowsNoEditor_KoV_WorldIcon+_A_Full.pak
 	War-WindowsNoEditor_KoV_WorldIcon+_Z_ColoredRessources+Mines.pak
 	War-WindowsNoEditor_M_Torso24.08.pak
+	War-WindowsNoEditor_Rank_Old.pak
 	War-WindowsNoEditor_SkajSoundMod.pak
 	War-WindowsNoEditor_SmallPlayerIcon.pak
 	War-WindowsNoEditor_Vanilla-EmplacedIcons-ADTips_1.0.pak
