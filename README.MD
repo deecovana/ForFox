@@ -1,1 +1,36 @@
 # ForFox GitHub @deecovana repo (CC4 2026)
+
+## Addeed mods:
+
+	War-WindowsNoEditor_22.pak
+	War-WindowsNoEditor_CollieRed.pak
+	War-WindowsNoEditor_ColoredAMats.pak
+	War-WindowsNoEditor_HelveticaForFoxhole.pak
+	War-WindowsNoEditor_ImprovedMapStyle_KnightofScience_Foxhole_Update_64.pak
+	War-WindowsNoEditor_Knights_MapModOfScience_v1_0_NoStyles_DarkRdz.pak
+	War-WindowsNoEditor_KoV_Fortress++.pak
+	War-WindowsNoEditor_KoV_FullCute_REDWARDEN_V2026.pak
+	War-WindowsNoEditor_KoV_MoreAccurateLarpSquad.pak
+	War-WindowsNoEditor_KoV_WorldIcon+_A_Full.pak
+	War-WindowsNoEditor_KoV_WorldIcon+_Z_ColoredRessources+Mines.pak
+	War-WindowsNoEditor_M_Torso24.08.pak
+	War-WindowsNoEditor_SkajSoundMod.pak
+	War-WindowsNoEditor_SmallPlayerIcon.pak
+	War-WindowsNoEditor_Vanilla-EmplacedIcons-ADTips_1.0.pak
+	War-WindowsNoEditor_Vanilla-FacilityIcons_1.0.pak
+	War-WindowsNoEditor_Vanilla-ItemIcons-FactionSpecificUniforms-TripodTips_U61.0.pak
+	War-WindowsNoEditor_Vanilla-VehicleIcons-ADTips_U53.0.pak
+	War-WindowsNoEditor_WardenRed.pak
+	War-WindowsNoEditor_z_BetterCompass_EN_Azim_v1.3a.pak
+
+## Added .gitattributes for LFS files:
+
+	*.zip filter=lfs diff=lfs merge=lfs -text
+	*.7z filter=lfs diff=lfs merge=lfs -text
+	*.glb filter=lfs diff=lfs merge=lfs -text
+	*.wav filter=lfs diff=lfs merge=lfs -text
+	*.pck filter=lfs diff=lfs merge=lfs -text
+	*.pak filter=lfs diff=lfs merge=lfs -text
+	*.exe filter=lfs diff=lfs merge=lfs -text
+	*.pdf filter=lfs diff=lfs merge=lfs -text
+	*.psd filter=lfs diff=lfs merge=lfs -text
